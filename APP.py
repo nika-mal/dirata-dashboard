@@ -178,13 +178,13 @@ fig.update_layout(
     ),
 
     margin=dict(
-        l=70,
-        r=40,
-        t=130,
-        b=70
+        l=50,
+        r=20,
+        t=90,
+        b=40
     ),
 
-    height=600
+    height=400
 )
 
 
